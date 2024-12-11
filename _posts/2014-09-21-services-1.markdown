@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: hongxing.jpg
 category: Services
 title: 红杏机场
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  专项平台优惠，每个月只需要5元，优质机场推荐 [红杏机场专项优惠注册](/302.html?target=https://hongxingdl.com/web/#/login?code=WjjqTnEn) 优惠券：betrys
