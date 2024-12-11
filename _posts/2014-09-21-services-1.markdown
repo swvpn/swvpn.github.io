@@ -1,6 +1,6 @@
 ---
 layout: default
-img: hongxing2.jpg
+img: hongxing2.webp
 category: Services
 title: 红杏机场
 description: |
