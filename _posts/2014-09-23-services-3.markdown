@@ -1,8 +1,9 @@
 ---
 layout: default
-img: phones.png
+img: qingning.jpg
 category: Services
 title: 青柠机场
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+属于比较高端的稳定机场，如果你想要一个稳定的机场，那么青柠是一个不错的选择
+[青柠机场专属注册链接](./302.html?target=https://www.lime1.xyz/register?code=dlQu3cqM) 
