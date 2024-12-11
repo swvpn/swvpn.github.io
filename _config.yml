@@ -7,11 +7,8 @@ title: 小火箭 shadowRocket
 email: bcins4691@gmail.com 
 author: shadow rocket
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+  小火箭官方平台，shadowRocket 下载教程，使用教程，最新节点推荐
+copyright: 'Copyright &copy; 2020 shadow rocket. All Rights Reserved.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -27,8 +24,6 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/offical_clash
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+    url: https://github.com/Shadowrocket
