@@ -33,6 +33,7 @@ h6 {
     color: #f8f8f8;
     background: url(../img/shadowrocket-2.webp) no-repeat center center;
     background-size: cover;
+    background-blend-mode: multiply;
 }
 
 .intro-message {
